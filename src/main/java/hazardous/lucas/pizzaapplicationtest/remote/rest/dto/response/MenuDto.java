@@ -3,7 +3,7 @@ package hazardous.lucas.pizzaapplicationtest.remote.rest.dto.response;
 import java.util.List;
 
 public class MenuDto {
-    public List<PizzaDto> pizzas;
+    private List<PizzaDto> pizzas;
 
     public MenuDto() {}
 
